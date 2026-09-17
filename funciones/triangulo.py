@@ -4,5 +4,5 @@ def calcular_area():
     print("Se esta calculando el area del triangulo")
 def mostrar_area():
     print("Se esta mostrando el area del triangulo")
-    
+
    
